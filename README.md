@@ -11,6 +11,7 @@ TREEO consists of several components:
   - APP (Cordova): https://github.com/fairventures-worldwide/treeo_cordova
   - Vue (App Content): https://github.com/fairventures-worldwide/treeo_webview
   - Language Files: https://github.com/fairventures-worldwide/treeo_locales
+  - TensorFlow model: https://github.com/fairventures-worldwide/treeo_tfjs_model
 - TREEO API (backend): https://github.com/fairventures-worldwide/treeo_api
 - PostGIS database model: https://drive.google.com/file/d/1zOftlENn9M7wFiYUORmWfyTldJ6O7tnk/view?usp=sharing
 
