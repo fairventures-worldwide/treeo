@@ -13,7 +13,8 @@ TREEO consists of several components:
   - Language Files: https://github.com/fairventures-worldwide/treeo_locales
   - TensorFlow model: https://github.com/fairventures-worldwide/treeo_tfjs_model
 - TREEO API (backend): https://github.com/fairventures-worldwide/treeo_api
-- PostGIS database model: https://drive.google.com/file/d/1zOftlENn9M7wFiYUORmWfyTldJ6O7tnk/view?usp=sharing
+- PostGIS database access by TREEO API:
+  - model: https://drive.google.com/file/d/1zOftlENn9M7wFiYUORmWfyTldJ6O7tnk/view?usp=sharing
 
 ## License
 [Apache License Version 2.0](./LICENSE)
